@@ -1,0 +1,43 @@
+/* Hello, my name is Diane. I put some comments to make you understand some of my choices. Thank you for your advice. Note: I am a French native speaker, so my syntax in English can be a little weird sometimes. Sorry.*/
+
+/* There were no particular styling indications for the h3 and p elements. So I made a decision based on the visual aspect of the webpage. */
+
+body {
+  font-family: Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+h1, h2, h3, .price {
+  font-weight: bold;
+}
+
+header {
+  background-image: url('../images/pattern.jpg');
+}
+
+h1 {
+  font-size: 100px;
+  color: Khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+}
+
+#brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+#frames h2 {
+  background-color: lightcoral;
+}
+
+#paint h2 {
+  background-color: skyblue;
+}
+
+.price {
+  color: blue;
+}
