@@ -1,3 +1,3 @@
 # DasmotoArts
-##Codecademy Ready:
-###First project submitted
+## Codecademy Ready:
+### First project submitted
